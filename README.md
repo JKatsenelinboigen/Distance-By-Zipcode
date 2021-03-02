@@ -9,7 +9,7 @@
 <br /><h2>Usage</h2>
 
 1. Run the DistanceByZips_API_DRIVER.py
-2. Go to <a href="127.0.0.1:5000/?zip1=90001&zip2=10020">127.0.0.1:5000/?zip1=90001&zip2=10020</a> (replace zip codes with ones you are looking to calculate)<br /> 
+2. Go to <a href="http://127.0.0.1:5000/?zip1=90001&zip2=10020">127.0.0.1:5000/?zip1=90001&zip2=10020</a> (replace zip codes with ones you are looking to calculate)<br /> 
 3. Result is a JSON file:
 
 <pre><code>{
