@@ -5,7 +5,7 @@
 <a href="https://pypi.org/project/Flask/">Flask</a>: for the web framework<br />
 <a href="https://pypi.org/project/pandas/">Pandas</a>: to interact with the datasest<br />
 <a href="https://pypi.org/project/geopy/">Geopy</a>: calculate distance between coordinates<br />
-<a href="https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/table/"> US Zip Code Latitude and Longitude</a>: lookup coordinates from zip code<br />
+<a href="https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/table/"> US Zip Code Latitude and Longitude</a>: lookup coordinates from zip code, this is the csv file in the /dataset directory<br />
 <br /><h2>Usage</h2>
 
 1. Run the DistanceByZips_API_DRIVER.py
